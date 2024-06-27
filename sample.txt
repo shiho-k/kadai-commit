@@ -1,2 +1,10 @@
-add sample.txt
-update sample.txt
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>タイトル</title>
+</head>
+<body>
+これは最初のコミットです。
+</body>
+</html>
